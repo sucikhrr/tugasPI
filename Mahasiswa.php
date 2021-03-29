@@ -21,7 +21,7 @@ class Mahasiswa extends CI_Controller
 	public function ubah()
 	{
 		
-		$this->load->view('ubah');
+		$this->load->view('ubah4');
 	}
 	
 
