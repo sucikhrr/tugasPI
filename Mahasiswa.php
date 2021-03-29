@@ -14,7 +14,7 @@ class Mahasiswa extends CI_Controller
 	public function tambah()
 	{
 		
-		$this->load->view('tambah');
+		$this->load->view('tambah1');
 	}
 
 
